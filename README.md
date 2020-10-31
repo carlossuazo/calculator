@@ -1,4 +1,5 @@
 Calculator.js: a node.js Demonstration Project
+[![Build Status](https://carlos91suazo.visualstudio.com/Parts%20Unlimited/_apis/build/status/carlossuazo.calculator?branchName=master)](https://carlos91suazo.visualstudio.com/Parts%20Unlimited/_build/latest?definitionId=3&branchName=master)
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
